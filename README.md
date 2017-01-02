@@ -3,5 +3,4 @@
 To view my movie website, use the following steps:
 
 1.)Download the folder entitled "classlearning"  
-2.)Open the file labeled "entertainment_center.py" with IDLE  
-3.)Run that file.
+2.)Open the folder, and double click on "entertainment_center.py" to run it and open the website
